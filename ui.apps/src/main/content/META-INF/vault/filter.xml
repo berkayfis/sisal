@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/apps/sisal/clientlibs"/>
+    <filter root="/apps/sisal/components"/>
+    <filter root="/apps/sisal/i18n"/>
+</workspaceFilter>
